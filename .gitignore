@@ -1,0 +1,11 @@
+.idea
+static/
+.git
+*.pyc
+*.log
+**/data/**
+!**/data
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
